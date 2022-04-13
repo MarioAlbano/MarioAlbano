@@ -17,4 +17,4 @@ My name is Mario Albano and i'm a student in the area of web development, curren
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAlbano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=8f29e93c-b563-45e5-bb7a-470769260977)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarioAlbano&v=2)](https://github.com/anuraghazra/github-readme-stats)
