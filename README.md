@@ -2,8 +2,14 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Mario Albano and i'm a student in the area of web development, currently working as an administrative assistant. Passionate about technology, always looking for more knowledge.
+Hi! My name is Mario Albano and i'm a student in the area of web development. Currently working as an administrative assistant. Passionate about technology and learning new languages. I'm always looking for more knowledge and challenges.
+I recently challenged myself to study programming every day (even on weekends and holidays) and commit whenever possible 🏋️!
 
+My latest projects:
+
+<a href="https://marioalbano.github.io/Bikcraft/">Bikcraft</a><br><br>
+<a href="https://marioalbano.github.io/Portfolio/">Portfolio</a><br><br>
+<a href="https://marioalbano.github.io/Tindog/">Tindog</a><br>
 
 
 ## 🔧 Technologies & Tools
