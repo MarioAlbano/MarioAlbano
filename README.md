@@ -2,7 +2,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi! My name is Mario Albano and i'm a student in the area of web development.
+My name is Mario Albano and i'm a student in the area of web development.
 
 Currently working as an administrative assistant. Passionate about technology and learning new languages. I'm always looking for more knowledge and challenges.
 
