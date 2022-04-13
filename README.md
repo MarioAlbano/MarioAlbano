@@ -1,1 +1,1 @@
-<h1>Hey Folks!</h1>
+<img src="./img/img1.png" justify-content="center">
