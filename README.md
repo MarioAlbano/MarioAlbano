@@ -8,7 +8,7 @@ Currently working as an administrative assistant. Passionate about technology an
 
 I recently challenged myself to study programming every day (even on weekends and holidays) and commit whenever possible 🏋️!
 
-My latest projects:<br>
+My latest projects: (Under development)<br>
 - <a href="https://marioalbano.github.io/Portfolio/">Portfolio</a><br>
 - <a href="https://marioalbano.github.io/Bikcraft/">Bikcraft</a><br>
 - <a href="https://marioalbano.github.io/Tindog/">Tindog</a><br>
