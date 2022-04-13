@@ -22,6 +22,7 @@ My latest projects:<br>
 
 
 ## &#x1f4c8; GitHub Stats
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioAlbano&theme=algolia&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAlbano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
