@@ -4,6 +4,8 @@
 
 My name is Mario Albano and i'm a student in the area of web development, currently working as an administrative assistant. Passionate about technology, always looking for more knowledge.
 
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
