@@ -17,7 +17,7 @@ Estou trabalhando como assistente administrativo, procurando por uma transferên
 Recentemente desafiei a mim mesmo a estudar programação todos os dias (inclusive nos finais de semanas e feriados) e sempre que possível fazer um commit 🏋️!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
+<p>
 My latest projects:   |   Últimos projetos:<br><br>
 - <a href="https://marioalbano.github.io/Portfolio/">Portfolio</a><br>
 - <a href="https://marioalbano.github.io/Bikcraft/">Bikcraft</a><br>
