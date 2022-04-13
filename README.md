@@ -12,7 +12,7 @@ My latest projects:<br><br>
 <a href="https://marioalbano.github.io/Portfolio/">Portfolio</a><br>
 <a href="https://marioalbano.github.io/Bikcraft/">Bikcraft</a><br>
 <a href="https://marioalbano.github.io/Tindog/">Tindog</a><br>
-<br><br>
+<br>
 
 
 ## 🔧 Technologies & Tools
