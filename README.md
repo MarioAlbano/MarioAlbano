@@ -1,6 +1,6 @@
 <img src="./img/img1.png" justify-content="center" width= "auto" height= "auto">
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! /  Olá!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [EN] My name is Mario Albano and currently i'm a student in the area of web development.
 
