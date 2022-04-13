@@ -8,12 +8,10 @@ Currently working as an administrative assistant. Passionate about technology an
 
 I recently challenged myself to study programming every day (even on weekends and holidays) and commit whenever possible 🏋️!
 
-My latest projects:<br><br>
+My latest projects:<br>
 - <a href="https://marioalbano.github.io/Portfolio/">Portfolio</a><br>
 - <a href="https://marioalbano.github.io/Bikcraft/">Bikcraft</a><br>
 - <a href="https://marioalbano.github.io/Tindog/">Tindog</a><br>
-<br>
-
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
