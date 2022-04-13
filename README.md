@@ -1,3 +1,3 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](<img src="./img/img1.png" alt="Header" >"Header")](https://./)
 
 <h1>Hey Folks!</h1>
