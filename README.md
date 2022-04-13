@@ -10,7 +10,7 @@ I recently challenged myself to study programming every day (even on weekends an
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[BR] Sou Mario Albano e atualmente sou um estudante da área de desenvolvimento web.
+[BR] Sou Mario Albano e atualmente sou um estudante na área de desenvolvimento web.
 
 Estou trabalhando como assistente administrativo, procurando por uma transferência de carreira. Apaixonado por tecnologia e sobre aprender novas línguas. Eu estou sempre procurando por mais conhecimentos e desafios.
 
