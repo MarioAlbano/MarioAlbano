@@ -17,12 +17,12 @@ Estou trabalhando como assistente administrativo, procurando por uma transferên
 Recentemente desafiei a mim mesmo a estudar programação todos os dias (inclusive nos finais de semanas e feriados) e sempre que possível fazer um commit 🏋️!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p>
+
 My latest projects:   |   Meus últimos projetos: <br><br>
 - <a href="https://marioalbano.github.io/Portfolio/">Portfolio</a><br>
 - <a href="https://marioalbano.github.io/Bikcraft/">Bikcraft</a><br>
 - <a href="https://marioalbano.github.io/Tindog/">Tindog</a><br>
- </p>
+
 
 ## 🔧 Technologies & Tools
  
@@ -31,9 +31,8 @@ My latest projects:   |   Meus últimos projetos: <br><br>
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br>
  
 ## &#x1f4c8; GitHub Stats
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioAlbano&theme=algolia&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAlbano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioAlbano&theme=algolia&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAlbano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
