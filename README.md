@@ -18,12 +18,6 @@ Recentemente desafiei a mim mesmo a estudar programação todos os dias (inclusi
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-My latest projects:   |   Meus últimos projetos: <br><br>
-- <a href="https://marioalbano.github.io/Portfolio/">Portfolio</a><br>
-- <a href="https://marioalbano.github.io/Bikcraft/">Bikcraft</a><br>
-- <a href="https://marioalbano.github.io/Tindog/">Tindog</a><br>
-
-
 ## 🔧 Technologies & Tools
  
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
