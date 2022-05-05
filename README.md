@@ -8,6 +8,11 @@ Currently working as an administrative assistant looking for a career transfer. 
 
 I recently challenged myself to study programming every day (even on weekends and holidays) and commit whenever possible 🏋️!
 
+latest projects:
+<a href="https://marioalbano.github.io/Portfolio/">Portfolio</a>
+<a href="https://marioalbano.github.io/Bikcraft/">Bikcraft</a>
+<a href="https://marioalbano.github.io/Tindog/">Tindog</a>
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [BR] Sou Mario Albano e atualmente sou um estudante na área de desenvolvimento web.
@@ -15,6 +20,11 @@ I recently challenged myself to study programming every day (even on weekends an
 Estou trabalhando como assistente administrativo, procurando por uma transferência de carreira. Apaixonado por tecnologia e sobre aprender novas línguas. Eu estou sempre procurando por mais conhecimentos e desafios.
 
 Recentemente desafiei a mim mesmo a estudar programação todos os dias (inclusive nos finais de semanas e feriados) e sempre que possível fazer um commit 🏋️!
+
+Últimos projetos:
+<a href="https://marioalbano.github.io/Portfolio/">Portfolio</a>
+<a href="https://marioalbano.github.io/Bikcraft/">Bikcraft</a>
+<a href="https://marioalbano.github.io/Tindog/">Tindog</a>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
