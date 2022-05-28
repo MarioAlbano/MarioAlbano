@@ -9,6 +9,7 @@ Currently working as an administrative assistant looking for a career transfer. 
 I recently challenged myself to study programming every day (even on weekends and holidays) and commit whenever possible 🏋️!
 
 Latest projects:</br></br>
+
 <a href="https://marioalbano.github.io/Portfolio/">Portfolio</a> |
 <a href="https://marioalbano.github.io/Bikcraft/">Bikcraft</a> |
 <a href="https://marioalbano.github.io/Tindog/">Tindog</a>
@@ -22,6 +23,7 @@ Estou trabalhando como assistente administrativo, procurando por uma transferên
 Recentemente desafiei a mim mesmo a estudar programação todos os dias (inclusive nos finais de semanas e feriados) e sempre que possível fazer um commit 🏋️!
 
 Últimos projetos:</br></br>
+
 <a href="https://marioalbano.github.io/Portfolio/">Portfolio</a> |
 <a href="https://marioalbano.github.io/Bikcraft/">Bikcraft</a> |
 <a href="https://marioalbano.github.io/Tindog/">Tindog</a>
